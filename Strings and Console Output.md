@@ -1,7 +1,5 @@
 # Codecademy Python
 
----
-
 ##### Python
 
 1. Strings
