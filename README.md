@@ -64,3 +64,9 @@ spam = True
 
 eggs = False
 ```
+
+```python
+# What is the value of the mysterious_variable?
+
+mysterious_variable = 42
+```
