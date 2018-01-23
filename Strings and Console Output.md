@@ -10,6 +10,7 @@
 brian = "Hello life!"
 ```
 
+
 2. Practice
 ```python
 # Assign your variables below, each on its own line!
