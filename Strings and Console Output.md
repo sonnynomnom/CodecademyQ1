@@ -64,3 +64,10 @@ parrot = "Norwegian Blue"
 
 print parrot.lower()
 ```
+
+7. upper()
+```python
+parrot = "norwegian blue"
+
+print parrot.upper()
+```
