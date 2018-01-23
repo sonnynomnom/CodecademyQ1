@@ -58,3 +58,9 @@ def spam():
         
 print spam()
 ```
+
+```
+spam = True
+
+eggs = False
+```
