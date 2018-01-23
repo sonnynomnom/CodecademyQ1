@@ -86,3 +86,13 @@ count_to = 99 + 999
 
 print count_to
 ```
+
+```python
+# Set eggs equal to 100 using exponentiation on line 3!
+
+eggs = 10 ** 2
+
+# Write your code above!
+
+print eggs
+```
