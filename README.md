@@ -50,3 +50,11 @@ my_int = 3
 
 print my_int
 ```
+
+```python
+def spam():
+  eggs = 12
+  return eggs
+        
+print spam()
+```
