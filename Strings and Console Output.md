@@ -50,3 +50,9 @@ fifth_letter = "MONTY"[4]
 
 print fifth_letter
 ```
+
+5. String methods
+```python
+parrot = "Norwegian Blue"
+print len(parrot)
+```
