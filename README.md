@@ -70,3 +70,9 @@ eggs = False
 
 mysterious_variable = 42
 ```
+
+```python
+"""Sipping from your cup 'til it runneth over,
+Holy Grail.
+"""
+```
