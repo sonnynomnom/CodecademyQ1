@@ -56,3 +56,10 @@ print fifth_letter
 parrot = "Norwegian Blue"
 print len(parrot)
 ```
+
+6. lower()
+```python
+parrot = "Norwegian Blue"
+
+print parrot.lower()
+```
