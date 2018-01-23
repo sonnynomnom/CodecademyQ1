@@ -106,3 +106,19 @@ spam = 7 % 2
 
 print spam
 ```
+
+```python
+# Sonny Li
+
+monty = True
+
+python = 1.234
+
+monty_python = python ** 2
+```
+
+- **Variables**, which store values for later use
+- **Data types**, such as numbers and booleans
+- **Whitespace**, which separates statements
+- **Comments**, which make your code easier to read
+- **Arithmetic operations**, including `+`, `-`, `*`, `/`, `**`, and `%`
