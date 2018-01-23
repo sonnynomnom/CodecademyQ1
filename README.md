@@ -76,3 +76,13 @@ mysterious_variable = 42
 Holy Grail.
 """
 ```
+
+```python
+# Set count_to equal to the sum of two big numbers
+
+count_to = 99 + 999
+
+# Write code above!
+
+print count_to
+```
