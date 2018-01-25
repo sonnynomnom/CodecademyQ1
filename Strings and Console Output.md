@@ -147,3 +147,38 @@ my_string = "blah"
 print len(my_string)
 print my_string.upper()
 ```
+
+# Date and Time
+
+1. The datetime Library
+```python
+from datetime import datetime
+```
+
+2. Getting the Current Date and Time
+```python
+from datetime import datetime
+
+now = datetime.now()
+print now
+```
+
+3. Extracting Information
+```python
+from datetime import datetime
+
+now = datetime.now()
+print now
+
+print now.year
+print now.month
+print now.day
+```
+
+4. Hot Date
+```python
+from datetime import datetime
+now = datetime.now()
+
+print '%s/%s/%s' % (now.month, now.day, now.year)
+```
