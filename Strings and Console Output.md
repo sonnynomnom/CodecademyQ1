@@ -80,3 +80,36 @@ then call your method on line 5!"""
 pi = 3.14
 print str(pi)
 ```
+
+9. Dot Notation
+```python
+ministry = "The Ministry of Silly Walks"
+
+print len(ministry)
+print ministry.upper()
+```
+
+10. Printing Strings
+```python
+"""Tell Python to print "Monty Python"
+to the console on line 4!"""
+
+print "Monty Python"
+```
+
+11. Printing Variables
+```python
+"""Assign the string "Ping!" to
+the variable the_machine_goes on
+line 5, then print it out on line 6!"""
+
+the_machine_goes = "Ping!"
+print the_machine_goes
+```
+
+12. String Concatenation
+```python
+# Print the concatenation of "Spam and eggs" on line 3!
+
+print "Spam " + "and " + "eggs"
+```
