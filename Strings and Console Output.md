@@ -138,3 +138,12 @@ color = raw_input("What is your favorite color? ")
 print "Ah, so your name is %s, your quest is %s, " \
 "and your favorite color is %s." % (name, quest, color)
 ```
+
+16. And Now, For Something Completely Familiar
+```python
+# Write your code below, starting on line 3!
+
+my_string = "blah"
+print len(my_string)
+print my_string.upper()
+```
