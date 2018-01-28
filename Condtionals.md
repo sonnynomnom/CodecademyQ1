@@ -83,3 +83,27 @@ bool_four = 8 < 7
 # Make me true!
 bool_five = 8 != 7
 ```
+
+5. To Be and/or Not to Be
+
+- `and`, `or`, `not`
+
+```python
+"""
+     Boolean Operators
+------------------------      
+True and True is True
+True and False is False
+False and True is False
+False and False is False
+
+True or True is True
+True or False is True
+False or True is True
+False or False is False
+
+Not True is False
+Not False is True
+
+"""
+```
