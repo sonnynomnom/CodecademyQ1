@@ -107,3 +107,31 @@ Not False is True
 
 """
 ```
+
+6. And
+
+```python
+bool_one = False and False
+
+bool_two = False and True
+
+bool_three = True and False
+
+bool_four = True and True
+
+bool_five = True and True
+```
+
+7. Or
+
+```python
+bool_one = 2**3 == 108 % 100 or 'Cleese' == 'King Arthur'
+
+bool_two = True or False
+
+bool_three = 100**0.5 >= 50 or False
+
+bool_four = True or True
+
+bool_five = 1**100 == 100**1 or 3 * 2 * 1 != 3 + 2 + 1
+```
