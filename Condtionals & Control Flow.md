@@ -302,3 +302,8 @@ else:
 ```
 
 6. Pop Quiz!
+
+7. Ay B C
+```python
+pyg = 'ay'
+```
