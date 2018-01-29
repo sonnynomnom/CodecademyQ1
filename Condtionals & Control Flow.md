@@ -257,3 +257,21 @@ def the_flying_circus():
     else:
       return False
 ```
+
+# PygLatin
+
+1. Break It Down
+
+2. Ahoy! (or Should I Say Ahoyay!)
+```python
+print 'Pig Latin'
+```
+
+3. Input!
+```python
+print 'Welcome to the Pig Latin Translator!'
+
+# Start coding here!
+original = raw_input("Enter a word: ")
+```
+
