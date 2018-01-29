@@ -149,3 +149,36 @@ bool_four = not 3**2 + 4**2 != 5**2
 
 bool_five = not not False
 ```
+
+9. This and That (or This, But Not That!)
+```python
+bool_one = False or not True and True
+
+bool_two = False and not True or True
+
+bool_three = True and not (False or False)
+
+bool_four = not not True or False and not True
+
+bool_five = False or not (True and True)
+```
+
+10 Mix 'n' Match
+```python
+# Use boolean expressions as appropriate on the lines below!
+
+# Make me false!
+bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
+
+# Make me true!
+bool_two = True and True
+
+# Make me false!
+bool_three = False and True
+
+# Make me true!
+bool_four = not False
+
+# Make me true!
+bool_five = True or True
+```
